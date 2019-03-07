@@ -1,10 +1,7 @@
-// Stuart Reges
-// 5/25/05
-//
 // Encode2 prompts the user for the name of a file to be encoded and the name
 // to use for the binary (encoded) output file.  It examines the input file for
 // the frequencies of characters and then uses a Huffman tree to generate codes
-// to use for each character so as to compress the original file.
+// to use for each character so as to compress the original file. Stuart Reges 5/25/05
 
 import java.io.*;
 import java.util.*;

@@ -1,5 +1,4 @@
-// From the UW
-// The BitOutputStream and BitInputStream classes provide the ability to
+// From the UW: The BitOutputStream and BitInputStream classes provide the ability to
 // write and read individual bits to a file in a compact form.  One major
 // limitation of this approach is that the resulting file will always have
 // a number of bits that is a multiple of 8.  In effect, whatever bits are

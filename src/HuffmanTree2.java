@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * A class that utilizes with Huffman trees.
  * 
- * @author DT
+ * @author dtabys
  *
  */
 public class HuffmanTree2 {
@@ -15,7 +15,7 @@ public class HuffmanTree2 {
 	/**
 	 * HuffmanNode is a node class for HuffmanTree.
 	 * 
-	 * @author DT
+	 * @author dtabys
 	 *
 	 */
 	private class HuffmanNode implements Comparable<HuffmanNode> {

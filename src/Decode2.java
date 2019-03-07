@@ -1,9 +1,6 @@
-// Stuart Reges
-// 5/25/05
-//
 // Decode2 prompts the user for the name of a binary (encoded) input file and a
 // the name to use for the output file.  It reproduces the original file.  It
-// assumes that Encode2 was run to produce the binary file.
+// assumes that Encode2 was run to produce the binary file. Stuart Reges 5/25/05
 
 import java.io.*;
 import java.util.*;
